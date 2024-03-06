@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xZbk03bO5Ou7bqzp7oa9SrDI5L25ClsGoASu0YtpaF1zvLkKoEfX9fcKCSClrbQLhI5ipt1JYD6WDQg9eO7sOQ==",
+  "success": true,
+  "projectFilePath": "D:\\david\\CSharpVS22\\BasSProto\\BasSProt\\BasSProt\\BasSProt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yajir\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\yajir\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\yajir\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\yajir\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\yajir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\yajir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
